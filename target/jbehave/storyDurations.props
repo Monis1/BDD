@@ -1,0 +1,9 @@
+#org.jbehave.core.embedder.StoryManager
+#Sun Jul 04 20:24:51 CEST 2021
+total=5000
+system_boundary_value_testing.story=3000
+threadAverage=5000
+payment_management.story=0
+threads=1
+address_management.story=2000
+catalog_management.story=0
